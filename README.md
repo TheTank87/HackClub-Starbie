@@ -22,10 +22,9 @@ I used the official guide as reference to get started.
 First designing the board components using Kicad, I had to add the actual brain, the components needed to recieve the signals from the sensors, buttons, and an OLED display component so the display actually works.
 <img width="1046" height="742" alt="Screenshot 2026-10-18 at 3 59 40 PM" src="https://github.com/user-attachments/assets/10a81a9b-cbe5-4dc4-ade6-d6eb4d718c7c" />
 
-<a href="https://kicanvas.org/?repo=https://github.com/TheTank87/HackClub-Starbie">
+<a href="https://kicanvas.org/?repo=https://github.com/TheTank87/HackClub-Starbie/Starbie.kicad_pcb">
   <img src="https://github.com/TheTank87/HackClub-Starbie/blob/ccf2b87a4c0c2da5647c10054101eb9e2c20533c/button.png" alt="View PCB on KiCanvas" width="100">
 </a>
-
 
 
 # Firmware:
