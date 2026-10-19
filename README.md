@@ -16,10 +16,21 @@ I used the official guide as reference to get started, [here]([url](https://gith
 * DHT11 and MPU6050 sensors.
 * Some keycaps
 * XIAO ESP32 C3
+<img width="665" height="290" alt="Screenshot 2026-10-18 at 3 57 36 PM" src="https://github.com/user-attachments/assets/5fcc458f-64f8-40b8-a34e-b36806adcf28" />
 
 # CAD Model:
 First designing the board components using Kicad, I had to add the actual brain, the components needed to recieve the signals from the sensors, buttons, and an OLED display component so the display actually works.
 <img width="1046" height="742" alt="Screenshot 2026-10-18 at 3 59 40 PM" src="https://github.com/user-attachments/assets/10a81a9b-cbe5-4dc4-ade6-d6eb4d718c7c" />
-<img width="665" height="290" alt="Screenshot 2026-10-18 at 3 57 36 PM" src="https://github.com/user-attachments/assets/5fcc458f-64f8-40b8-a34e-b36806adcf28" />
+
+# Firmware:
+I used Ardunio IDE for firmware and I'm going to have to add the logic to make all my components work. All of these are hard coded, below is the table of what I'm going to add to the Starbie, however, in a future week where I actually put the firmware in, I might change some things after I learn the language used for the firmware.
+
+| Control | Purpose |
+| -------- | -------- |
+| Button 1, first press  | Opens the menu.  |
+| Tilting the board  | Moves a selector ball or cursor  |
+| Button 1, 2nd press | Chooses highlighted action |
+| Button 2 | Show/Hide stat screen |
+| Shaking while seeing a pet | Gives the shake reaction |
 
  
