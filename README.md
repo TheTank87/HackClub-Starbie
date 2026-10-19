@@ -22,7 +22,9 @@ I used the official guide as reference to get started.
 First designing the board components using Kicad, I had to add the actual brain, the components needed to recieve the signals from the sensors, buttons, and an OLED display component so the display actually works.
 <img width="1046" height="742" alt="Screenshot 2026-10-18 at 3 59 40 PM" src="https://github.com/user-attachments/assets/10a81a9b-cbe5-4dc4-ade6-d6eb4d718c7c" />
 
-[![View PCB on KiCanvas](images/button.jpg)](https://kicanvas.org/?repo=https://github.com/TheTank87/HackClub-Starbie)
+[![View PCB on KiCanvas](images/button.png)](https://kicanvas.org/?repo=https://github.com/TheTank87/HackClub-Starbie)
+
+
 
 # Firmware:
 I used Ardunio IDE for firmware and I'm going to have to add the logic to make all my components work. All of these are hard coded, below is the table of what I'm going to add to the Starbie, however, in a future week where I actually put the firmware in, I might change some things after I learn the language used for the firmware.
