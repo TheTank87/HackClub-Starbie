@@ -8,7 +8,7 @@ Finished project design. More notes in the JOURNAL.
 This is the Starbie, a two-button macropad that has an OLED display to show whatever you want and it even comes with  MPU6050 and DHT11 Environment Sensor. There are two main components to
 this project which is the hardware and firmware. This project is built to be your desktop companion and it will react to how you handle it. (If you code it that way.)
 It is USB powered and requires some hole-soldering.
-I used the official guide as reference to get started, [here]([url](https://github.com/SharKingStudios/Starbie/blob/main/README.md)).
+I used the official guide as reference to get started.
 
 # Features
 * OLED Display
