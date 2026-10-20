@@ -40,6 +40,9 @@ First designing the board components using Kicad, I had to add the actual brain,
   <img src="https://github.com/TheTank87/HackClub-Starbie/blob/ccf2b87a4c0c2da5647c10054101eb9e2c20533c/button.png" alt="View PCB on KiCanvas" width="100">
 </a>
 
+# 3D Render
+<img width="1081" height="628" alt="Starbie" src="https://github.com/user-attachments/assets/f9d785ec-600c-4c7c-9a5f-a347e0c2fa6d" />
+
 
 # Firmware:
 I used Ardunio IDE for firmware and I'm going to have to add the logic to make all my components work. All of these are hard coded, below is the table of what I'm going to add to the Starbie, however, in a future week where I actually put the firmware in, I might change some things after I learn the language used for the firmware.
