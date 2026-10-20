@@ -18,6 +18,13 @@ I used the official guide as reference to get started.
 * XIAO ESP32 C3
 <img width="665" height="290" alt="Screenshot 2026-10-18 at 3 57 36 PM" src="https://github.com/user-attachments/assets/5fcc458f-64f8-40b8-a34e-b36806adcf28" />
 
+# BOM
+| Parts | Qty | Supplier | Cost/Item | Total Cost | Link |
+|-------|-------|-------|-------|-------|-------|
+| XIAO ESP32 c3 | 1 | LCSC | $5.00 | $5.00 | https://seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html |
+| 0.96 OLED | 1 | Amazon | $2.50 | $2.50 | https://www.amazon.com/dp/B0GBVWBWCR | 
+
+
 # CAD Model:
 First designing the board components using Kicad, I had to add the actual brain, the components needed to recieve the signals from the sensors, buttons, and an OLED display component so the display actually works.
 <img width="1046" height="742" alt="Screenshot 2026-10-18 at 3 59 40 PM" src="https://github.com/user-attachments/assets/10a81a9b-cbe5-4dc4-ade6-d6eb4d718c7c" />
