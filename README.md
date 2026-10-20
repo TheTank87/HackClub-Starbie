@@ -30,6 +30,7 @@ I used the official guide as reference to get started.
 |10k Resistor|1|Amazon|$0.05|$0.05|https://www.amazon.com/dp/B0B4JFPHTW|
 |PCB|1|JLC|$10.00|$10.00|https://jlcpcb.com/|
 |Estimated Total Shipping|1|||$0.00||
+|Grand Total|||$26.29|
 
 
 # CAD Model:
