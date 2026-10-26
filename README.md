@@ -54,4 +54,7 @@ I used Ardunio IDE for the firmware, it turns out there are MANY types of firmwa
 | Button 2 | Show/Hide stat screen |
 | Shaking while seeing a pet | Gives the shake reaction |
 
+### Thoughts on assembly
+
+After this project gets approved, I might have to use some coins to get myself a solder, however, I could just always buy it myself later. To assembly things, I'll have to get the components as well as the board and we'll see if the components fit. Then I need to watch some videos on how to solder properly and do a couple of test runs on disposable junk before I can be confident that I don't mess up my components. Based on my knowledge, I should first assess where everything goes first and then solder. That'll be it for assembly, I would then need to figure out how to upload the firmware to the pcb which might take very little time because it's so well documented. Anyways, I'll figure it out during build week.
  
