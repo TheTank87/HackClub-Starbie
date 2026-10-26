@@ -15,7 +15,6 @@ I used the official guide as reference to get started.
 * DHT11 and MPU6050 sensors.
 * Some keycaps
 * XIAO ESP32 C3
-<img width="665" height="290" alt="Screenshot 2026-10-18 at 3 57 36 PM" src="https://github.com/user-attachments/assets/5fcc458f-64f8-40b8-a34e-b36806adcf28" />
 
 # BOM
 | Parts | Qty | Supplier | Cost/Item | Total Cost | Link |
