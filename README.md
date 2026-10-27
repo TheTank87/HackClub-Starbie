@@ -38,6 +38,8 @@ The actual designing process was making the schematic and I learned a few keyboa
 <img width="300" height="300" alt="Screenshot 2026-10-18 at 3 59 40 PM" src="https://github.com/user-attachments/assets/10a81a9b-cbe5-4dc4-ade6-d6eb4d718c7c" />
 <img width="300" height="300" alt="PCBSketch" src="https://github.com/user-attachments/assets/db975aee-c103-466f-8a8d-63fab54b335e" />
 
+UPDATE! 
+I changed the overall PCB shape into an actual star instead of a pixelated one and changed the layout of the components. The main changes were the keys which are now side by side instead of up and down.
 
 Btw, I also created this cool button you can press, it does something!
 
@@ -47,15 +49,17 @@ Btw, I also created this cool button you can press, it does something!
 
 
 ## Firmware:
-I used Ardunio IDE for the firmware, it turns out there are MANY types of firmware I could choose from and there’s also this thing called circuit python that people also use. I am a novice at python so I was able to read the code.py, however, there was still a lot of jargon that I still don’t understand, so I’ll just go with the flow for now and learn it later. The code the guide gave basically told my board to have these functions though, that I understood. Controls layout below:
+I used Ardunio IDE for the firmware, it turns out there are MANY types of firmware I could choose from and there’s also this thing called circuit python that people also use. I am a novice at python so I was able to read the code.py, however, there was still a lot of jargon that I still don’t understand, so I’ll just go with the flow for now and learn it later. 
+UPDATE! 
+I learned the code and now I have successfully customized the firmware. Firstly, I checked that all the pins were correctly laid out, which was the case. I changed the component layout, but not the wiring. I then decided that I'd have Mario be by sprite instead and I had to mess around with pixels until I got the Mario shape. I also decided that it would be cool if I shook the screen and Mario jumped, so I coded that feature in there too.
 
 | Control | Purpose |
-| -------- | -------- |
+| -------- | ------------------------------ |
 | Button 1, first press  | Opens the menu.  |
 | Tilting the board  | Moves a selector ball or cursor  |
-| Button 1, 2nd press | Chooses highlighted action |
+| Button 1, 2nd press | Confirms and executes the highlighted action (e.g., power-up, super jump, coin collection, or running laps). |
 | Button 2 | Show/Hide stat screen |
-| Shaking while seeing a pet | Gives the shake reaction |
+| Shaking while seeing a pet | Triggers Mario's jump animation and boosts joy. |
 
 # 3D Renders
 <img width="300" height="300" alt="3DRenderfrontweek1" src="https://github.com/user-attachments/assets/413832f6-58c2-4b37-9f73-c55bdedeb6a7" />
