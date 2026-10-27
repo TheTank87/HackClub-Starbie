@@ -43,7 +43,7 @@ I changed the overall PCB shape into an actual star instead of a pixelated one a
 
 Btw, I also created this cool button you can press, it does something!
 
-<a href="https://kicanvas.org/?repo=https://github.com/TheTank87/HackClub-Starbie/tree/main/Starbie">
+<a href="https://kicanvas.org/?repo=https://github.com/TheTank87/HackClub-Starbie/tree/main/PCB">
   <img src="https://github.com/TheTank87/HackClub-Starbie/blob/ccf2b87a4c0c2da5647c10054101eb9e2c20533c/button.png" alt="View PCB on KiCanvas" width="100">
 </a>
 
